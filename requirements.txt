@@ -1,6 +1,9 @@
 streamlit
-fbprophet
+prophet
 yfinance
 plotly
 numpy 
 pandas
+seaborn
+tensorflow
+scikit-learn
